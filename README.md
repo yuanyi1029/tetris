@@ -1,6 +1,6 @@
 # Tetris Web Game
 
-![Project Image](https://imgur.com/9kVnyUd.png)
+![Project Image](https://github.com/yuanyi1029/tetris/blob/2958c806eb749183c147bb16018b8cc8c92f0664/tetris.png)
 #### Video Demo: https://youtu.be/K_BIOWSXTMM
 
 ## 💬 Description
